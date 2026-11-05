@@ -11,6 +11,7 @@
 
 * **Alejandro Rodríguez Arciniegas**
 * **Bryant Antony Rosero Rojas**
+* **Santiago Cardenas Rodriguez**
 
 ### 👨‍🏫 Profesores
 * **Ing. Carlos Sierra**
